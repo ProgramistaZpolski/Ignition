@@ -1,0 +1,9 @@
+{
+	"name": "ProgramistaZpolski/Ignition",
+	"description": "Error Pages for PHP ",
+	"autoload": {
+		"classmap": [
+			"./"
+		]
+	}
+}
