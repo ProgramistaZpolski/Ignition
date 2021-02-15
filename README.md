@@ -26,3 +26,5 @@ Replace *418* with the error code you want to show.
 
 ## Credits
 The icons in the background of these error pages are from Bootstrap Icons, licensed under MIT
+
+The Color sheme is Nord
