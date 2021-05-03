@@ -1,3 +1,10 @@
+<?php
+
+if (!isset($data)) {
+	die();
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
